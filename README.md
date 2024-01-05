@@ -1,1 +1,1 @@
-# Brahima aBoroma photography website 
+# Brahima Boroma photography website 
