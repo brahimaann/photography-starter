@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6fa9e617.css",
+    "main.js": "/static/js/main.2afd00e5.js",
+    "static/media/Eid4.21.23 (5 of 50).png": "/static/media/Eid4.21.23 (5 of 50).ff5b86ac531c6b0ad9b4.png",
+    "static/media/Mawatta bday 23-39.png": "/static/media/Mawatta bday 23-39.065cf793d8ecd33095c4.png",
+    "static/media/Stuart and donny on motor cycle-1.png": "/static/media/Stuart and donny on motor cycle-1.7964dc7c43023c3d3f42.png",
+    "static/media/Reflection 3 himas edit no3.png": "/static/media/Reflection 3 himas edit no3.6668817a4a6059922a06.png",
+    "static/media/BabouHoCO23-12.jpg": "/static/media/BabouHoCO23-12.a421a9251a2abf95db95.jpg",
+    "static/media/IMG_4972.jpg": "/static/media/IMG_4972.8f86a925d0edc1454e8c.jpg",
+    "static/media/himaBack.png": "/static/media/himaBack.d56c28a1150e6d961225.png",
+    "static/media/IMG_5619.jpg": "/static/media/IMG_5619.35e150984a4e57b54f07.jpg",
+    "static/media/himaBack.jpg": "/static/media/himaBack.28fe6878f2d6221562d5.jpg",
+    "static/media/IMG_5580.jpg": "/static/media/IMG_5580.1c1407aee55e00a3921f.jpg",
+    "static/media/IMG_5457.jpg": "/static/media/IMG_5457.ab73ab47b80dde75e51c.jpg",
+    "static/media/logo.svg": "/static/media/logo.4785b2557ccf7e44e6dee7c32a88a3d6.svg",
+    "index.html": "/index.html",
+    "main.6fa9e617.css.map": "/static/css/main.6fa9e617.css.map",
+    "main.2afd00e5.js.map": "/static/js/main.2afd00e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fa9e617.css",
+    "static/js/main.2afd00e5.js"
+  ]
+}
